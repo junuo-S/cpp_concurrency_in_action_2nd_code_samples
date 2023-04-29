@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 
-void hello()
+static void hello()
 {
     std::cout<<"Hello Concurrent World\n";
 }

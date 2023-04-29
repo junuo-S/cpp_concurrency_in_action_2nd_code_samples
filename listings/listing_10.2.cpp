@@ -1,3 +1,7 @@
+#include <algorithm>
+#include <mutex>
+#include <vector>
+
 class Y{
     int data;
 public:

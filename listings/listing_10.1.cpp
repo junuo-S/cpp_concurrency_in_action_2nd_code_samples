@@ -1,3 +1,7 @@
+#include <algorithm>
+#include <mutex>
+#include <vector>
+
 class X{
     mutable std::mutex m;
     int data;

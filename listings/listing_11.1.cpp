@@ -1,3 +1,6 @@
+#include <cassert>
+#include <future>
+
 void test_concurrent_push_and_pop_on_empty_queue()
 {
     threadsafe_queue<int> q;

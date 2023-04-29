@@ -1,0 +1,3 @@
+D:/programItems/Visual Studio项目/其它/cpp_concurrency_in_action_2nd_code_samples/build/CMakeFiles/cpp_concurrency_in_action_2nd_code_samples.dir
+D:/programItems/Visual Studio项目/其它/cpp_concurrency_in_action_2nd_code_samples/build/CMakeFiles/ALL_BUILD.dir
+D:/programItems/Visual Studio项目/其它/cpp_concurrency_in_action_2nd_code_samples/build/CMakeFiles/ZERO_CHECK.dir
